@@ -1,0 +1,2 @@
+# screen-personas-custom-controls-sample
+Sample code to demonstrate adding custom controls to SAP Screen Personas. This code is used in the SCN article http://scn.sap.com/community/gui/blog/2016/04/29/custom-controls-for-sap-screen-personas.
